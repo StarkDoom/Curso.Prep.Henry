@@ -1,0 +1,40 @@
+body{
+    background: url(https://img.freepik.com/foto-gratis/autentica-pasta-italiana_24972-886.jpg?size=626&ext=jpg);
+    background-size: 100%;
+}
+.tituloGeneral{        
+    color: gold;
+    }
+#thirdDiv ul li img{
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    background-color: rgb(0, 255, 0);
+    border-color: rgb(29, 126, 0);
+    border-width: 10px;
+    border-style: ridge;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    color: rgb(252, 143, 0);
+
+    border-color: antiquewhite;
+    border-width: 7px;
+    border-style: double;
+}
+.aCaracteristicas{
+    font-size: 20px;
+}
+.flexBox, h1, h3, h4{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.flexBox, span, a{
+    display: flex;
+    justify-content: center;
+}
+
+
+    
